@@ -10,7 +10,7 @@ from langchain.llms import OpenAI
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 #Lendo arquivo JSON
-json_file = open('api-keys/openai.json')
+json_file = open('./api-keys/openai.json')
 data = json.load(json_file)
 json_file.close()
 
