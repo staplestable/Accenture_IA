@@ -1,5 +1,5 @@
 # FCI - ChatBot
-FCI ChatBot é um assistente virtual para todos os tem interesse nas informações gerais e específicas de cursos da FCI Mackenzie. 
+FCI ChatBot é um assistente virtual para todos que tem interesse nas informações gerais e específicas de cursos da FCI Mackenzie. 
 Projeto feito durante o hackathon de IA da Accenture.
 
 Para executar a aplicação, é preciso ter todas as dependências instaladas na máquina:
