@@ -29,6 +29,6 @@ Dentro da pasta api-keys, altere o arquivo openai.json especificando sua API_KEY
 Para executar o programa certifique-se que todas as dependências estão instaladas em sua máquina e que a API_KEY foi especificada no arquivo JSON, então use o comando:
 
 ```
-streamlit run Accenture.py
+streamlit run AccentureUI.py
 ```
 
